@@ -1,0 +1,3 @@
+NexoraQuiz is a secure and scalable web application designed for educational institutions to conduct quizzes efficiently. It empowers students to take quizzes in popular programming languages while providing robust backend management and automated workflows for faculty and administrators. The platform ensures high availability and efficient performance, eliminating manual tracking and scaling seamlessly for concurrent users, with instant score delivery and automated email notifications post-completion.
+
+Technology/Tools: Python 3.11.2 (Django Framework), HTML/CSS/JS, AWS EC2, AWS RDS & Aurora MySQL, AWS Route 53, AWS Elastic Load Balancer, AWS Certificate Manager.
